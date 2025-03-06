@@ -1,0 +1,6 @@
+FlagEmbedding
+numpy
+scikit-learn
+matplotlib
+torch
+transformers
