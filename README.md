@@ -19,3 +19,10 @@ This project demonstrates:
 ```bash
 pip install -r requirements.txt
 python src/main.py
+```
+
+## Final result
+
+![Figure_1](https://github.com/user-attachments/assets/1de7415c-b41a-4306-81b3-33479fce477d)
+
+
